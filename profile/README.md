@@ -1,6 +1,6 @@
 # Thomas J. Barreras Consulting
 
-Practical software, AI, and machine learning projects with an emphasis on real implementation, sound engineering, and production-minded design.
+Practical software, AI, and machine learning projects focused on real business value.
 
 This organization showcases hands-on work in:
 - **AI and LLM-enabled applications**
@@ -24,26 +24,35 @@ Application work involving AI-assisted workflows and backend development.
 
 ## Supporting technical projects
 
-These smaller projects highlight engineering foundations that support delivery quality:
+These smaller projects highlight engineering foundations that support reliable delivery:
 
 - [llm-ci-pipeline](https://github.com/Thomas-J-Barreras-Consulting/llm-ci-pipeline) — LLM regression testing and CI evaluation patterns
 - [terraform-basic-infrastructure](https://github.com/Thomas-J-Barreras-Consulting/terraform-basic-infrastructure) — infrastructure-as-code example with Terraform
 - [dockerized-typescript-api](https://github.com/Thomas-J-Barreras-Consulting/dockerized-typescript-api) — lightweight TypeScript REST API packaged with Docker
 - [studyjarviswebapp](https://github.com/Thomas-J-Barreras-Consulting/studyjarviswebapp) — companion TypeScript web frontend
 
-## What this organization is for
+## What we do
 
-This organization serves as a working portfolio of projects that demonstrate:
-- practical software delivery
-- applied AI and ML implementation
-- clear architecture and engineering judgment
-- testing, CI/CD, and automation discipline
-
-## Engagement areas
-
-Open to opportunities involving:
-- AI / LLM application development
-- machine learning prototypes and evaluation
-- backend or full-stack software development
+We build practical solutions in areas such as:
+- LLM / RAG applications
+- AI evaluation and benchmarking
+- machine learning prototypes
+- backend APIs and full-stack applications
 - DevOps and CI/CD improvements
 - cloud and infrastructure automation
+
+## Why this GitHub exists
+
+This organization serves as a working portfolio of projects that demonstrate:
+- practical implementation skill
+- clear architecture and engineering judgment
+- testing, CI/CD, and automation discipline
+- AI work grounded in evaluation, not hype
+
+## Availability
+
+Open to contract and consulting opportunities, especially projects involving:
+- AI / LLM application development
+- ML prototypes and evaluation
+- backend or full-stack software development
+- DevOps and delivery pipeline improvements
