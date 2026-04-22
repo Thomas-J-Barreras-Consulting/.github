@@ -5,7 +5,7 @@ We build practical software and AI solutions with a focus on:
 - **LLM evaluation and CI pipelines**
 - **DevOps and cloud infrastructure**
 - **Backend APIs and full-stack applications**
-- **Applied machine learning prototypes**
+- **Applied machine learning pipelines and applications**
 
 ## What you'll find here
 
