@@ -17,7 +17,7 @@ Mobile and machine-learning-oriented application work demonstrating end-to-end p
 Applied ML experimentation using real-world financial and macroeconomic data, with notebook-based analysis and model evaluation.
 
 ### [studyjarvis](https://github.com/Thomas-J-Barreras-Consulting/studyjarvis)
-Application work involving AI-assisted workflows and backend development.
+Application work involving LLM-assisted workflows and backend development.
 
 ### [ci-dashboard](https://github.com/Thomas-J-Barreras-Consulting/ci-dashboard)
 React-based dashboard for visualizing CI status and build health across repositories.
